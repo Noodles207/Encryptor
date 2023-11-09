@@ -15,4 +15,4 @@ A: go right ahead and request a fork/pull.
 
 Q: Your code sucks. i can do this way better.
 
-A: i'm in a coding 1-2 class, so probably. feel free to give advie; otherwise, im pretty sure a "Better-Encryptor" repository is available. piss off to there, maybe?
+A: i'm in a coding 1-2 class, so probably. feel free to give advice; otherwise, im pretty sure a "Better-Encryptor" repository is available.
